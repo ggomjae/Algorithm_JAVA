@@ -91,6 +91,7 @@ SELECT ANIMAL_ID , NAME , DATE_FORMAT(DATETIME,'%Y-%m-%d') AS 날짜 FROM ANIMAL
 # 끝맺음
 <br>
 
-* ```알고리즘``` ```SQL``` 을 위한 저장소 <br>```알고리즘``` : ```src``` -> ```main``` -> ```java``` <br>
+* ```알고리즘``` ```SQL``` 을 위한 저장소 <br>
+* ```알고리즘``` : ```src``` -> ```main``` -> ```java``` <br>
 * ```SQL``` : README.md <br>
 * 주기적인 UPDATE
